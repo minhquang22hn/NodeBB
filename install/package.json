@@ -194,7 +194,7 @@
         "url": "https://github.com/NodeBB/NodeBB/issues"
     },
     "engines": {
-        "node": ">=22"
+        "node": ">=18"
     },
     "maintainers": [
         {
